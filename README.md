@@ -1,19 +1,12 @@
-# auth_firebase
+# Authentification Firebase avec Flutter
 
-A new Flutter project.
+Ce projet est une application Flutter simple qui utilise Firebase pour l'authentification via e-mail et mot de passe.
 
-## Getting Started
+## Prérequis
 
-This project is a starting point for a Flutter application.
+- [Flutter](https://flutter.dev/docs/get-started/install) doit être installé sur votre machine.
+- Un compte Firebase et un projet configuré. Suivez [ce guide](https://firebase.google.com/docs/flutter/setup) pour ajouter Firebase à votre projet Flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 ![Screenshot_1728676652](https://github.com/user-attachments/assets/45d7e945-bbcb-4700-b5bf-546e10847d18)
 ![Screenshot_1728676676](https://github.com/user-attachments/assets/0f8a5d50-b970-4139-835b-78616313da43)
 ![Screenshot_1728676688](https://github.com/user-attachments/assets/cfc2b0ca-12c1-45d1-b16b-eaa43365a3fa)
